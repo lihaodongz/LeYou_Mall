@@ -1,0 +1,8 @@
+.idea
+*.iml
+LeYou_registry/*.iml
+LeYou_gatway/*.iml
+LeYou_gatway/target/
+LeYou_gatway/src/test
+LeYou_registry/target/
+LeYou_registry/src/test
