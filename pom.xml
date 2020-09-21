@@ -10,6 +10,7 @@
     <modules>
         <module>LeYou_registry</module>
         <module>LeYou_gatway</module>
+        <module>LeYou_Goods</module>
     </modules>
     <packaging>pom</packaging>
 
