@@ -11,6 +11,9 @@
         <module>LeYou_registry</module>
         <module>LeYou_gatway</module>
         <module>LeYou_Goods</module>
+        <module>LeYou_Order</module>
+        <module>Leyou_Pay</module>
+        <module>LeYou_User</module>
     </modules>
     <packaging>pom</packaging>
 
